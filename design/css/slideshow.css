@@ -1,0 +1,22 @@
+#hero ul {
+	position:absolute;
+	display: none;
+}
+
+.gpf-slides-container ul li {
+    display: block;
+    float: left;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+ .gpf-slides-container ul li a,  .gpf-slides-container ul li a:active,  .gpf-slides-container ul li a:hover,  .gpf-slides-container ul li a:link,  .gpf-slides-container ul li a:visited {
+    border: medium none;
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-decoration: none;
+}

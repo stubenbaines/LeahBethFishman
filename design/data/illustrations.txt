@@ -1,0 +1,127 @@
+{	
+	"name": "illustrations",
+	"imagePath":  "illustrations/",
+	"thumbnailPath": "illustrations/thumb/",
+	"itemList": [
+		{  
+			"fileName":  "ILL1.jpg",
+			"description": "1st Illustration"
+		},
+		{
+			"fileName":  "ILL2.jpg",
+			"description": "2nd Illustration"
+		},
+		{
+			"fileName":  "ILL3.jpg",
+			"description": "3rd Illustration"
+		},
+		{
+			"fileName":  "ILL4.jpg",
+			"description": "4th Illustration"
+		},
+		{
+			"fileName": "ILL5.jpg",
+			"description": "5th Illustration"
+		},
+		{  
+			"fileName":  "ILL6.jpg",
+			"description": "6th Illustration"
+		},
+		{
+			"fileName":  "ILL7.jpg",
+			"description": "7th Illustration"
+		},
+		{
+			"fileName":  "ILL8.jpg",
+			"description": "8th Illustration"
+		},
+		{
+			"fileName":  "ILL9.jpg",
+			"description": "9th Illustration"
+		},
+		{
+			"fileName": "ILL10.jpg",
+			"description": "10th Illustration"
+		},
+		{  
+			"fileName":  "ILL11.jpg",
+			"description": "Illustration 11"
+		},
+		{
+			"fileName":  "ILL12.jpg",
+			"description": "Illustration 12"
+		},
+		{
+			"fileName":  "ILL13.jpg",
+			"description": "Illustration 13"
+		},
+		{
+			"fileName":  "ILL14.jpg",
+			"description": "Illustration 14"
+		},
+		{
+			"fileName": "ILL15.jpg",
+			"description": "Illustration 15"
+		},
+		{  
+			"fileName":  "ILL16.jpg",
+			"description": "Illustration 16"
+		},
+		{
+			"fileName":  "ILL17.jpg",
+			"description": "Illustration 17"
+		},
+		{
+			"fileName":  "ILL18.jpg",
+			"description": "Illustration 18"
+		},
+		{
+			"fileName":  "ILL19.jpg",
+			"description": "Illustration 19"
+		},
+		{
+			"fileName": "ILL20.jpg",
+			"description": "Illustration 20"
+		},
+		{  
+			"fileName":  "ILL21.jpg",
+			"description": "Illustration 21"
+		},
+		{
+			"fileName":  "ILL22.jpg",
+			"description": "Illustration 22"
+		},
+		{
+			"fileName":  "ILL23.jpg",
+			"description": "Illustration 23"
+		},
+		{
+			"fileName":  "ILL24.jpg",
+			"description": "Illustration 24"
+		},
+		{
+			"fileName": "ILL25.jpg",
+			"description": "Illustration 25"
+		},
+		{  
+			"fileName":  "ILL26.jpg",
+			"description": "Illustration 26"
+		},
+		{
+			"fileName":  "ILL27.jpg",
+			"description": "Illustration 27"
+		},
+		{
+			"fileName":  "ILL28.jpg",
+			"description": "Illustration 28"
+		},
+		{
+			"fileName":  "ILL29.jpg",
+			"description": "Illustration 29"
+		},
+		{
+			"fileName":  "ILL30.jpg",
+			"description": "Illustration 30"
+		}
+	]
+}

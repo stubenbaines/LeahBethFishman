@@ -1,0 +1,21 @@
+#leah-slideshow .gpf-slides-container ul {
+	float: left;
+}
+
+.gpf-slideshow .gpf-slides-container ul li a.active {
+    opacity: 0.6;
+}
+.gpf-slideshow .gpf-slides-container ul li a:hover {
+    opacity: 1;
+}
+
+.gpf-slideshow-target {
+   position:absolute;
+   margin:0 auto;
+}
+
+#leah-slideshow .gpf-slides-container ul li {
+	margin-right: 12px;
+    margin-bottom: 7px;
+}
+ 

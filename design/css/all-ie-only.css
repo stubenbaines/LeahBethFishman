@@ -1,0 +1,11 @@
+div.prev, div.prev:link, div.prev:hover{
+	background: url("img/left-arrow.gif") 0 0 no-repeat;
+}
+
+div.carousel-center {
+	background: url("img/circle.gif") 0 0 no-repeat;
+}
+
+div.next, div.next:link, div.next:hover{
+	background: url("img/right-arrow.gif") 0 0 no-repeat;
+}

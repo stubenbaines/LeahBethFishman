@@ -1,0 +1,21 @@
+/* TEAM */
+Leah Fishman Designer  
+Dennis Pierce Developer (dennis (at) gothampixelfactory.com)
+Kelly Sly Developer (kelly (at) gothampixelfactory.com)
+                            
+                            
+Location: New York, New York
+
+                            
+/* SITE */                            
+Last update: 2013/08/30
+
+                            
+Standards: HTML5, CSS3, JS
+
+                            
+Components: HTML5Shiv, jQuery, CarouselFred
+
+                            
+Software: Sublime Text, Photoshop
+   

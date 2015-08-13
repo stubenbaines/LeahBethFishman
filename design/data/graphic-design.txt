@@ -1,0 +1,141 @@
+{ 
+	"name": "graphic-design",
+	"imagePath":  "graphic-design/",
+	"thumbnailPath": "graphic-design/thumb/",
+	"itemList": [
+		{  
+			"fileName":  "GD1.jpg",
+			"description": "1st Graphic"
+		},
+
+		{
+			"fileName":  "GD2.jpg",
+			"description": "2nd Graphic"
+		},
+		
+		{
+			"fileName":  "GD3.jpg",
+			"description": "3rd Graphic"
+		},
+		{
+			"fileName":  "GD4.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD5.jpg",
+			"description": "5th Graphic"
+		},
+		{
+			"fileName":  "GD6.jpg",
+			"description": "6th Graphic"
+		},
+		{
+			"fileName":  "GD7.jpg",
+			"description": "7th Graphic"
+		},
+		{
+			"fileName":  "GD8.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD9.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD10.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD11.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD12.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD13.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD14.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD15.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD16.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD17.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD18.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD19.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD20.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD21.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD22.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD23.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD26.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD27.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD28.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD29.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD30.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD31.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD32.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD33.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD34.jpg",
+			"description": "4th Graphic"
+		},
+		{
+			"fileName":  "GD35.jpg",
+			"description": "4th Graphic"
+		}
+	]
+}

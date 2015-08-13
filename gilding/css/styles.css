@@ -1,0 +1,367 @@
+/* reset styles */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin:0; padding:0; border:0; outline:0; font-size:100%; font-weight: normal; vertical-align:baseline; background:transparent;} body { line-height:1; } article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,section { display:block;} nav, ul { list-style:none;}
+
+
+/* end reset styles */
+
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+
+@font-face {
+	font-family:"Tall Dark And Handsome Condensed";
+	src: url("font/talldark.eot?") format("eot"), url("font/talldark.woff") format("woff"), url("font/talldark.ttf") format("truetype"),url("font/talldark.svg#TallDarkAndHandsome-Condensed") format("svg");
+	font-weight:normal;
+	font-style:normal;
+}
+
+/* General styles */
+
+body {
+	font-family: Futura, "Gill Sans", "Century Gothic", "Dejavu Sans", "Trebuchet MS", sans-serif;
+}
+
+.hidden {
+	display: none;
+}
+
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	border: 0;
+	color: #000000;
+	outline:none;
+}
+
+a.fb {
+	color: #003471;
+	text-decoration: underline;
+}
+
+#wrapper {
+	background: url("../img/gildingsite-bg.jpg") 0 0 no-repeat;
+	width: 1163px;
+	margin: 0;
+	padding: 0 24px 4%;
+}
+
+
+.indented {
+	text-indent: -9999px;
+}
+
+header {
+	min-height: 105px;
+}
+
+nav {
+	min-height: 71px;
+	min-width: 1163px;
+	max-width: 1163px;
+	margin-top: 6px;
+	margin-bottom: 2%;
+	border-top: 2px solid #000;
+	background: url("../img/shell/nav-sprite.png") 0 0 no-repeat;
+	position: relative;
+}
+
+nav li {
+	position: relative;
+}
+
+nav, footer, .about-header, .commissions-page {
+	font-family: "Tall Dark And Handsome Condensed", Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 20px;
+	letter-spacing: 3px;
+}
+
+.nav-text {
+	height: 69px;
+	position: absolute;
+	text-align: center;
+	top: 12px;
+	line-height: 24px;
+}
+
+a:hover, .nav-text.current {
+	color: #c47c41;
+}
+/* Main navigation styles */
+
+#about-link, #about-link:link {
+    width: 61px;
+    left: 8px;
+    height: 30px;
+}
+
+#furniture-link, #furniture-link:link {
+    left: 104px;
+    width: 155px;
+}
+
+#mirrors-link, #mirrors-link:link {
+	width: 160px;
+	left: 303px;
+}
+
+
+#arch-link, #arch-link:link {
+	left: 519px;
+    width: 142px;
+}
+
+#signage-link, #signage-link:link {
+	left: 700px;
+    width: 88px;
+    height: 30px;
+}
+
+#commissions-link, #commissions-link:link {
+	left: 821px;
+    width: 140px;
+}
+
+#blog-link, #blog-link:link {
+	left: 989px;
+    width: 62px;
+    height: 30px;
+}
+
+#contact-link, #contact-link:link {
+	left: 1076px;
+    width: 86px;
+    height: 30px;
+}
+
+
+/* About Page Styles */
+
+#wrapper .about-page, #wrapper .about-page .image-strip {
+	overflow: hidden;
+}
+
+#wrapper .about-page .image-strip img {
+	float: left;
+	margin: 0 7px 0 0;
+	width: 285px;
+}
+
+.about-page {
+	margin: 47px 0 0 0;
+	width: 1168px;
+}
+
+.blue-text {
+	color: #40409a;
+}
+
+.about-header {
+	font-size: 43px;
+	letter-spacing: 7px;
+	position: relative;
+}
+
+.about-header span  {
+	margin: 0 10px 0 0;
+}
+
+	.about-header span.navy-text {
+		color: #002157;
+		margin-right: 0;
+	}
+
+.video {
+	margin: 36px 0 0 0;
+	float: left;
+	width: 50%;
+}
+	.video .caption {
+		display: block;
+		font-size: 12px;
+		line-height: 16px;
+    	margin-top: 4px;
+	}
+
+.about-text {
+	margin: 36px 0 0 0;
+	text-align: right;
+	float: right;
+	width: 50%;
+}
+
+.about-lbt {
+	clear: both;
+	text-align: justify;
+	padding-top: 2%;
+	font-size: 13px;
+	letter-spacing: 0.05em;
+	line-height: 1.3em;
+	width: 100%;
+	float: right;
+}
+
+	.about-callout {
+		color: #c47c41;
+		line-height: 1.6em;
+	}
+
+		.about-callout a {
+			color: #c47c41;
+			text-decoration: underline;
+		}
+
+.image-strip {
+	width: 1186px;
+}
+
+/* Commissions page styles */
+
+.commissions-page {
+	font-size: 25px;
+    letter-spacing: 0.17em;
+    margin: 46px 0 0 170px;
+    width: 866px;
+}
+
+	.commissions-page ul {
+		color: #003471;
+    	line-height: 30px;
+    	margin: 34px 0 34px 132px;
+	}
+
+	.commissions-page p {
+		margin: 0 0 20px 0;
+	}
+
+	.commissions-page img {
+		display: block;
+		margin: 40px auto 0 auto;
+	}
+
+		.commissions-page a {
+			color: #003471;
+			text-decoration: underline;
+		}
+	
+/* Footer styles */
+
+footer {
+	clear: both;
+	padding-top: 3%;
+	font-size: 24px;
+}
+
+.mail-list, .mail-list:link, .mail-list:hover{
+	float: left;
+	height: 18px;
+}
+
+.illustrations-link, .illustrations-link:link, .illustrations-link:hover{
+	float: right;
+	height: 18px;
+}
+
+.slideshow-content {
+	margin-top: 80px;
+	min-height: 500px;
+}
+
+.carousel {
+	position: relative;
+}
+.carousel ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+}
+.carousel li {
+	padding: 0;
+	margin: 6px;
+	display: block;
+	float: left;
+	opacity: .4;
+	-webkit-transition: opacity 0.3s ease-in-out; 
+	-moz-transition: opacity 0.3s ease-in-out; 
+	-o-transition: opacity 0.3s ease-in-out; 
+	transition: opacity 0.3s ease-in-out; 
+}
+	.carousel li.highlighted {
+		opacity: .99;
+	  	
+	}
+
+.carousel-container {
+	overflow: hidden;
+	width: 1168px;
+}
+
+.caption {
+	margin-top: 20px;
+	-webkit-transition: all 0.3s ease-out; 
+    -moz-transition: all 0.3s ease-out; 
+    -o-transition: all 0.3s ease-out; 
+    transition: all 0.3s ease-out; 
+}
+
+.home .subpage-content {
+    padding-top: 36px;
+    min-height: 500px;
+}
+
+
+
+/* Category navigation */
+
+#subcat-nav {
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
+	margin: 36px 0 0;
+}
+
+#subcat-nav a {
+	font-size:56px;
+	cursor:pointer;
+	float: right;
+}
+
+	#subcat-nav a.prev {
+		float: left;
+	}
+	
+.contact-page img {
+	display: block;
+	margin: 0 auto;
+}
+
+.prev {
+	margin-right: 36px;
+}
+
+.splash .wrapper {
+	margin: 0 auto;
+	width: 800px;
+}
+
+	.splash header {
+		text-indent: -9999px;
+		background: url(../../img/header.png) 0 0 no-repeat;
+		height: 182px;
+		margin: 12px auto;
+		width: 700px;
+	}
+
+	.splash .sites {
+		position: relative;
+		overflow: hidden;
+		width: 718px;
+		margin: 0;
+	}
+
+		.splash .sites .gilding {
+			float: left;
+		}
+		
+		.splash .sites .design {
+			float: right;
+		}
+
+

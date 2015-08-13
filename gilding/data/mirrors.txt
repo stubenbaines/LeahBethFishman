@@ -1,0 +1,462 @@
+{	
+	"name": "mirrors",
+	"subPath": "mirrors/",
+	"slides": [
+		{
+			"name": "binky1s",
+			"fileName":  "detailing/binky1s.jpg",
+			"description": "12 kt white gold oil gilding, Gibson guitar for guitarist Binky Griptite"
+		},
+		{
+			"name": "binky2s",
+			"fileName":  "detailing/binky2s.jpg",
+			"description": "12 kt white gold oil gilding, Gibson guitar for guitarist Binky Griptite"
+		},
+		{
+			"name": "binky3s",
+			"fileName":  "detailing/binky3s.jpg",
+			"description": "12 kt white gold oil gilding, Gibson guitar for guitarist Binky Griptite"
+		},
+		{
+			"name": "binky4s",
+			"fileName":  "detailing/binky4s.jpg",
+			"description": "12 kt white gold oil gilding, Gibson guitar for guitarist Binky Griptite"
+		},
+		{
+			"name": "gibson1s",
+			"fileName":  "detailing/gibson1s.jpg",
+			"description": "23 kt oil gilding, Gibson guitars NYC"
+		},
+		{
+			"name": "gibson2s",
+			"fileName":  "detailing/gibson2s.jpg",
+			"description": "23 kt oil gilding, Gibson guitars NYC"
+		},
+		{
+			"name": "gibson3s",
+			"fileName":  "detailing/gibson3s.jpg",
+			"description": "23 kt oil gilding, Gibson guitars NYC"
+		},
+		{
+			"name": "guitar1s",
+			"fileName":  "detailing/guitar1s.jpg",
+			"description": "Various guitar oil gilding"
+		},
+		{
+			"name": "guitar2s",
+			"fileName":  "detailing/guitar2s.jpg",
+			"description": "Various guitar oil gilding"
+		},
+		{
+			"name": "stalkers1s",
+			"fileName":  "detailing/stalkers1s.jpg",
+			"description": "Carved inlay and water gilded letters"
+		},
+		{
+			"name": "ouija1s",
+			"fileName":  "detailing/ouija1s.jpg",
+			"description": "Ouija board; hand made, inlaid & carved 23 kt water gilded lettering"
+		},
+		{
+			"name": "ouija2s",
+			"fileName":  "detailing/ouija2s.jpg",
+			"description": "Ouija board; hand made, inlaid & carved 23 kt water gilded lettering"
+		},
+		{
+			"name": "ouija3s",
+			"fileName":  "detailing/ouija3s.jpg",
+			"description": "Ouija board; hand made, inlaid & carved 23 kt water gilded lettering"
+		},
+		{
+			"name": "ouija4s",
+			"fileName":  "detailing/ouija4s.jpg",
+			"description": "Ouija board; hand made, inlaid & carved 23 kt water gilded lettering"
+		},
+		{
+			"name": "cane1s",
+			"fileName":  "detailing/cane1s.jpg",
+			"description": "23 kt water gilded cane detailing and carving"
+		},
+		{
+			"name": "cane2s",
+			"fileName":  "detailing/cane2s.jpg",
+			"description": "23 kt water gilded cane detailing and carving"
+		},
+		{
+			"name": "cane3s",
+			"fileName":  "detailing/cane3s.jpg",
+			"description": "23 kt water gilded cane detailing and carving"
+		},
+		{
+			"name": "A1s",
+			"fileName":  "A1s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 10\" x 10\""
+		},
+		{
+			"name": "A2s",
+			"fileName":  "A2s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 10\" x 10\""
+		},
+		{
+			"name": "A3s",
+			"fileName":  "A3s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 10\" x 10\""
+		},
+		{
+			"name": "anatomy1s",
+			"fileName":  "anatomy1s.jpg",
+			"description": "Hand silvered, etched and gilded glass/mirror; 3\" x 5\""
+		},
+		{
+			"name": "anatomy2s",
+			"fileName":  "anatomy2s.jpg",
+			"description": "Hand silvered, etched and gilded glass/mirror; 3\" x 5\""
+		},
+		{
+			"name": "anatomy3s",
+			"fileName":  "anatomy3s.jpg",
+			"description": "Hand silvered, etched and gilded glass/mirror; 3\" x 5\""
+		},
+		{
+			"name": "anatomy4s",
+			"fileName":  "anatomy4s.jpg",
+			"description": "Hand silvered, etched and gilded glass/mirror; 3\" x 5\""
+		},
+		{
+			"name": "ashley1s",
+			"fileName":  "ashley1s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 10\" x 12\""
+		},
+		{
+			"name": "ashley2s",
+			"fileName":  "ashley2s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 10\" x 12\""
+		},
+		{
+			"name": "ashley3s",
+			"fileName":  "ashley3s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 10\" x 12\""
+		},
+		{
+			"name": "backgammon1s",
+			"fileName":  "backgammon1s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 12\" x 14\""
+		},
+		{
+			"name": "backgammon2s",
+			"fileName":  "backgammon2s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 12\" x 14\""
+		},
+		{
+			"name": "backgammon3s",
+			"fileName":  "backgammon3s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 12\" x 14\""
+		},
+		{
+			"name": "balloon1s",
+			"fileName":  "balloon1s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 8\" x 10\""
+		},
+		{
+			"name": "balloon2s",
+			"fileName":  "balloon2s.jpg",
+			"description": "Hand silvered, painted and gilded glass/mirror; 8\" x 10\""
+		},
+		{
+			"name": "beardsley1s",
+			"fileName":  "beardsley1s.jpg",
+			"description": "Hand silvered, etched and gilded glass/mirror; 5\" x 6\""
+		},
+		{
+			"name": "beardsley2s",
+			"fileName":  "beardsley2s.jpg",
+			"description": "Hand silvered, etched and gilded glass/mirror; 5\" x 6\""
+		},
+		{
+			"name": "beardsley3s",
+			"fileName":  "beardsley3s.jpg",
+			"description": "Hand silvered, etched and gilded glass/mirror; 5\" x 6\""
+		},
+		{
+			"name": "cafe1s",
+			"fileName":  "cafe1s.jpg",
+			"description": "Hand silvered, silkscreen, painted and gilded glass/mirror; 5\" x 7\""
+		},
+		{
+			"name": "cafe2s",
+			"fileName":  "cafe2s.jpg",
+			"description": "Hand silvered, silkscreen, painted and gilded glass/mirror; 5\" x 7\""
+		},
+		{
+			"name": "cafe3s",
+			"fileName":  "cafe3s.jpg",
+			"description": "Hand silvered, silkscreen, painted and gilded glass/mirror; 5\" x 7\""
+		},
+		{
+			"name": "cafe4s",
+			"fileName":  "cafe4s.jpg",
+			"description": "Hand silvered, silkscreen, painted and gilded glass/mirror; 5\" x 7\""
+		},
+		{
+			"name": "dream1s",
+			"fileName":  "dream1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror, \"Dream\" antique bottle ad; 8\" x 10\""
+		},
+		{
+			"name": "dream2s",
+			"fileName":  "dream2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror, \"Dream\" antique bottle ad; 8\" x 10\""
+		},
+		{
+			"name": "dream3s",
+			"fileName":  "dream3s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror, \"Dream\" antique bottle ad; 8\" x 10\""
+		},
+		{
+			"name": "dream4s",
+			"fileName":  "dream4s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror, \"Dream\" antique bottle ad; 8\" x 10\""
+		},
+		{
+			"name": "god1s",
+			"fileName":  "god1s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror; 8\" x 10\""
+		},
+		{
+			"name": "god2s",
+			"fileName":  "god2s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror; 8\" x 10\""
+		},
+		{
+			"name": "guitar1s",
+			"fileName":  "guitar1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 14\" x 17\""
+		},
+		{
+			"name": "guitar2s",
+			"fileName":  "guitar2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 14\" x 17\""
+		},
+		{
+			"name": "diagonal1s",
+			"fileName":  "diagonal1s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror for singer songwriter Nicole Atkins; 24\" x 36\""
+		},
+		{
+			"name": "diagonal2s",
+			"fileName":  "diagonal2s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror for singer songwriter Nicole Atkins; 24\" x 36\""
+		},
+		{
+			"name": "diagonal3s",
+			"fileName":  "diagonal3s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror for singer songwriter Nicole Atkins; 24\" x 36\""
+		},
+		{
+			"name": "diagonal4s",
+			"fileName":  "diagonal4s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror for singer songwriter Nicole Atkins; 24\" x 36\""
+		},
+		{
+			"name": "goodbye1s",
+			"fileName":  "goodbye1s.jpg",
+			"description": "Silvered, etched and gilded glass/ mirror for singer songwriter Nicole Atkins; 5\" x 8\""
+		},
+		{
+			"name": "goodbye2s",
+			"fileName":  "goodbye2s.jpg",
+			"description": "Silvered, etched and gilded glass/ mirror for singer songwriter Nicole Atkins; 5\" x 8\""
+		},
+		{
+			"name": "heavyboots1s",
+			"fileName":  "heavyboots1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror, \"They are no match for me\" for singer songwriter Nicole Atkins; 14\" x 18\""
+		},
+		{
+			"name": "heavyboots2s",
+			"fileName":  "heavyboots2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror, \"They are no match for me\" for singer songwriter Nicole Atkins; 14\" x 18\""
+		},
+		{
+			"name": "heavyboots3s",
+			"fileName":  "heavyboots3s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror, \"They are no match for me\" for singer songwriter Nicole Atkins; 14\" x 18\""
+		},
+		{
+			"name": "nicoleface1s",
+			"fileName":  "nicoleface1s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror for singer songwriter Nicole Atkins; 4\" x 6\""
+		},
+		{
+			"name": "nicoleface2s",
+			"fileName":  "nicoleface2s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror for singer songwriter Nicole Atkins; 4\" x 6\""
+		},
+		{
+			"name": "nicolefaceS1s",
+			"fileName":  "nicolefaceS1s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror for singer songwriter Nicole Atkins; 4\" x 6\""
+		},
+		{
+			"name": "nicolefaceS2s",
+			"fileName":  "nicolefaceS2s.jpg",
+			"description": "Silvered, etched and gilded glass/mirror for singer songwriter Nicole Atkins; 4\" x 6\""
+		},
+		{
+			"name": "nicolepattern1s",
+			"fileName":  "nicolepattern1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 14\" x 18\""
+		},
+		{
+			"name": "nicolepattern2s",
+			"fileName":  "nicolepattern2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 14\" x 18\""
+		},
+		{
+			"name": "nicoleswan1s",
+			"fileName":  "nicoleswan1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 7\" x 9\""
+		},
+		{
+			"name": "nicoleswan2s",
+			"fileName":  "nicoleswan2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 7\" x 9\""
+		},
+		{
+			"name": "tower1s",
+			"fileName":  "tower1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 16\" x 22\""
+		},
+		{
+			"name": "tower2s",
+			"fileName":  "tower2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 16\" x 22\""
+		},
+		{
+			"name": "tower3s",
+			"fileName":  "tower3s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 16\" x 22\""
+		},
+		{
+			"name": "tower4s",
+			"fileName":  "tower4s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 16\" x 22\""
+		},
+		{
+			"name": "vultures1s",
+			"fileName":  "vultures1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 12\" x 26\""
+		},
+		{
+			"name": "vultures2s",
+			"fileName":  "vultures2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 12\" x 26\""
+		},
+		{
+			"name": "vultures3s",
+			"fileName":  "vultures3s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 12\" x 26\""
+		},
+		{
+			"name": "vultures4s",
+			"fileName":  "vultures4s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror for singer songwriter Nicole Atkins; 12\" x 26\""
+		},
+		{
+			"name": "peacock1s",
+			"fileName":  "peacock1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 4\" x 7\""
+		},
+		{
+			"name": "peacock2s",
+			"fileName":  "peacock2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 4\" x 7\""
+		},
+		{
+			"name": "peacock3s",
+			"fileName":  "peacock3s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 4\" x 7\""
+		},
+		{
+			"name": "peacock4s",
+			"fileName":  "peacock4s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 4\" x 7\""
+		},
+		{
+			"name": "verticalpattern1s",
+			"fileName":  "verticalpattern1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 10\" x 18\""
+		},
+		{
+			"name": "circles1s",
+			"fileName":  "circles1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 24\" x 36\""
+		},
+		{
+			"name": "circles2s",
+			"fileName":  "circles2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 24\" x 36\""
+		},
+		{
+			"name": "circles3s",
+			"fileName":  "circles3s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 24\" x 36\""
+		},
+		{
+			"name": "flower1s",
+			"fileName":  "flower1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 16\" x 24\""
+		},
+		{
+			"name": "flower2s",
+			"fileName":  "flower2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 16\" x 24\""
+		},
+		{
+			"name": "flower3s",
+			"fileName":  "flower3s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 16\" x 24\""
+		},
+		{
+			"name": "grasshopper1s",
+			"fileName":  "grasshopper1s.jpg",
+			"description": "Silvered, silkscreen painted and gilded glass/mirror; 8\" x 12\""
+		},
+		{
+			"name": "grasshopper2s",
+			"fileName":  "grasshopper2s.jpg",
+			"description": "Silvered, silkscreen painted and gilded glass/mirror; 8\" x 12\""
+		},
+		{
+			"name": "grasshopper3s",
+			"fileName":  "grasshopper3s.jpg",
+			"description": "Silvered, silkscreen painted and gilded glass/mirror; 8\" x 12\""
+		},
+		{
+			"name": "modpattern1s",
+			"fileName":  "modpattern1s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 18\" x 24\""
+		},
+		{
+			"name": "modpattern2s",
+			"fileName":  "modpattern2s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 18\" x 24\""
+		},
+		{
+			"name": "modpattern3s",
+			"fileName":  "modpattern3s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 18\" x 24\""
+		},
+		{
+			"name": "modpattern4s",
+			"fileName":  "modpattern4s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 18\" x 24\""
+		},
+		{
+			"name": "modpattern5s",
+			"fileName":  "modpattern5s.jpg",
+			"description": "Silvered, painted and gilded glass/mirror; 18\" x 24\""
+		}
+
+	]
+}

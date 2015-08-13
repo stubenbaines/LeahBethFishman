@@ -1,0 +1,52 @@
+div a.disabled {
+    cursor: default;
+    opacity: 0.3;
+}
+.gpf-slides-container {
+    display: block;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+.gpf-slides-container ul {
+   position: absolute;
+   left: 0;
+}
+
+.gpf-slides-container ul li {
+    height: 57px;
+    width: 56px;
+}
+
+
+
+.gpf-slides-container ul li img {
+	opacity: .50;
+    clear: both;
+    display: block;
+    float: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    height:54px;
+    width:55px;
+    border: none;
+    -webkit-transition: all 0.2s ease-in; 
+    -moz-transition: all 0.2s ease-in; 
+    -o-transition: all 0.2s ease-in; 
+    transition: all 0.2s ease-in; 
+}
+
+.gpf-slides-container ul li.active img {
+    border: 1px solid #003471;
+    opacity:.99;
+}
+
+.gpf-slides-container ul li img:hover {
+    opacity: .99;
+}
+
+img.gpf-slideshow-target {
+    opacity: 0;
+}

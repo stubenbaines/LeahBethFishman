@@ -1,0 +1,431 @@
+{	
+	"name": "architecture",
+	"subPath": "arch_rest/",
+	"slides": [
+		{
+			"name": "lafayette1s",
+			"fileName":  "arch/lafayette1s.jpg",
+			"description": "Oil Gilded aluminum apartment, NYC"
+		},
+		{
+			"name": "lafayette2s",
+			"fileName":  "arch/lafayette2s.jpg",
+			"description": "Oil Gilded aluminum apartment, NYC"
+		},
+		{
+			"name": "lafayette3s",
+			"fileName":  "arch/lafayette3s.jpg",
+			"description": "Oil Gilded aluminum apartment, NYC"
+		},
+		{
+			"name": "park1s",
+			"fileName":  "arch/park1s.jpg",
+			"description": "Aluminum oil gilding, NYC"
+		},
+		{
+			"name": "park2s",
+			"fileName":  "arch/park2s.jpg",
+			"description": "Aluminum oil gilding, NYC"
+		},
+		{
+			"name": "park3s",
+			"fileName":  "arch/park3s.jpg",
+			"description": "Aluminum oil gilding, NYC"
+		},
+		{
+			"name": "park4s",
+			"fileName":  "arch/park4s.jpg",
+			"description": "Aluminum oil gilding, NYC"
+		},
+		{
+			"name": "park5s",
+			"fileName":  "arch/park5s.jpg",
+			"description": "Aluminum oil gilding, NYC"
+		},
+		{
+			"name": "park6s",
+			"fileName":  "arch/park6s.jpg",
+			"description": "Aluminum oil gilding, NYC"
+		},
+		{
+			"name": "park7s",
+			"fileName":  "arch/park7s.jpg",
+			"description": "Aluminum oil gilding, NYC"
+		},
+		{
+			"name": "park8s",
+			"fileName":  "arch/park8s.jpg",
+			"description": "Aluminum oil gilding, NYC"
+		},
+		{
+			"name": "parkhall1s",
+			"fileName":  "arch/parkhall1s.jpg",
+			"description": "Various metal gilding, NYC"
+		},
+		{
+			"name": "parkhall2s",
+			"fileName":  "arch/parkhall2s.jpg",
+			"description": "Various metal gilding, NYC"
+		},
+		{
+			"name": "parkhall3s",
+			"fileName":  "arch/parkhall3s.jpg",
+			"description": "Various metal gilding, NYC"
+		},
+		{
+			"name": "parkhall4s",
+			"fileName":  "arch/parkhall4s.jpg",
+			"description": "Various metal gilding, NYC"
+		},
+		{
+			"name": "parkhall5s",
+			"fileName":  "arch/parkhall5s.jpg",
+			"description": "Various metal gilding, NYC"
+		},
+		{
+			"name": "parkhall6s",
+			"fileName":  "arch/parkhall6s.jpg",
+			"description": "Various metal gilding, NYC"
+		},
+		{
+			"name": "smith1s",
+			"fileName":  "arch/smith1s.jpg",
+			"description": "Oil gilded aluminum leaf ceiling, Michael Smith apartment NYC"
+		},
+		{
+			"name": "smith2s",
+			"fileName":  "arch/smith2s.jpg",
+			"description": "Oil gilded aluminum leaf ceiling, Michael Smith apartment NYC, Architectural Digest Sept. 2012"
+		},
+		{
+			"name": "smith3s",
+			"fileName":  "arch/smith3s.jpg",
+			"description": "Oil gilded aluminum leaf ceiling, Michael Smith apartment NYC"
+		},
+		{
+			"name": "smith4s",
+			"fileName":  "arch/smith4s.jpg",
+			"description": "Oil gilded aluminum leaf ceiling, Michael Smith apartment NYC"
+		},
+		{
+			"name": "smith5s",
+			"fileName":  "arch/smith5s.jpg",
+			"description": "Hand placed aluminum leaf ceiling, Michael Smith apartment NYC"
+		},
+		{
+			"name": "smith6s",
+			"fileName":  "arch/smith6s.jpg",
+			"description": "Hand placed aluminum leaf ceiling, Michael Smith apartment NYC"
+		},
+		{
+			"name": "goldceiling1s",
+			"fileName":  "arch/goldceiling1s.jpg",
+			"description": "Hand placed 23kt ceiling, NYC"
+		},
+		{
+			"name": "goldceiling2s",
+			"fileName":  "arch/goldceiling2s.jpg",
+			"description": "Hand placed 23kt ceiling, NYC"
+		},
+		{
+			"name": "goldceiling3s",
+			"fileName":  "arch/goldceiling3s.jpg",
+			"description": "Hand placed 23kt ceiling, NYC"
+		},
+		{
+			"name": "goldceiling4s",
+			"fileName":  "arch/goldceiling4s.jpg",
+			"description": "Hand placed 23kt ceiling, NYC"
+		},
+		{
+			"name": "alumceiling1s",
+			"fileName":  "arch/alumceiling1s.jpg",
+			"description": "Oil gilded aluminum leaf ceiling, NYC"
+		},
+		{
+			"name": "alumceiling2s",
+			"fileName":  "arch/alumceiling2s.jpg",
+			"description": "Oil gilded aluminum leaf ceiling, NYC"
+		},
+		{
+			"name": "alumceiling3s",
+			"fileName":  "arch/alumceiling3s.jpg",
+			"description": "Oil gilded aluminum leaf ceiling, NYC"
+		},
+		{
+			"name": "alumceiling4s",
+			"fileName":  "arch/alumceiling4s.jpg",
+			"description": "Oil gilded aluminum leaf ceiling, NYC"
+		},
+		{
+			"name": "dome1s",
+			"fileName":  "arch/dome1s.jpg",
+			"description": "23 kt oil gilding, Long Island NY"
+		},
+		{
+			"name": "dome2s",
+			"fileName":  "arch/dome2s.jpg",
+			"description": "23 kt oil gilding, Long Island NY"
+		},
+		{
+			"name": "cpw1s",
+			"fileName":  "arch/cpw1s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw2s",
+			"fileName":  "arch/cpw2s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw3s",
+			"fileName":  "arch/cpw3s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw4s",
+			"fileName":  "arch/cpw4s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw5s",
+			"fileName":  "arch/cpw5s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw6s",
+			"fileName":  "arch/cpw6s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw7s",
+			"fileName":  "arch/cpw7s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw8s",
+			"fileName":  "arch/cpw8s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw9s",
+			"fileName":  "arch/cpw9s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw10s",
+			"fileName":  "arch/cpw10s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw11s",
+			"fileName":  "arch/cpw11s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw12s",
+			"fileName":  "arch/cpw12s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw13s",
+			"fileName":  "arch/cpw13s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "cpw14s",
+			"fileName":  "arch/cpw14s.jpg",
+			"description": "Various metal leaf oil gilding, NYC"
+		},
+		{
+			"name": "trump1s",
+			"fileName":  "arch/trump1s.jpg",
+			"description": "23.5 kt oil gilding, Trump Plaza NYC"
+		},
+		{
+			"name": "trump2s",
+			"fileName":  "arch/trump2s.jpg",
+			"description": "23.5 kt oil gilding, Trump Plaza NYC"
+		},
+		{
+			"name": "trump3s",
+			"fileName":  "arch/trump3s.jpg",
+			"description": "23.5 kt oil gilding, Trump Plaza NYC"
+		},
+		{
+			"name": "union1s",
+			"fileName":  "arch/union1s.jpg",
+			"description": "23 kt oil gilding restoration, Union Station, Washington D.C."
+		},
+		{
+			"name": "union2s",
+			"fileName":  "arch/union2s.jpg",
+			"description": "23 kt oil gilding restoration, Union Station, Washington D.C."
+		},
+		{
+			"name": "alphonsus1s",
+			"fileName":  "rest/alphonsus1s.jpg",
+			"description": "Altar restoration, Society of Gilders community project 2010, St. Alphonsus Church, New Orleans LA"
+		},
+		{
+			"name": "alphonsus2s",
+			"fileName":  "rest/alphonsus2s.jpg",
+			"description": "Altar restoration, Society of Gilders community project 2010, St. Alphonsus Church, New Orleans LA"
+		},
+		{
+			"name": "alphonsus3s",
+			"fileName":  "rest/alphonsus3s.jpg",
+			"description": "Altar restoration, Society of Gilders community project 2010, St. Alphonsus Church, New Orleans LA"
+		},
+		{
+			"name": "alphonsus4s",
+			"fileName":  "rest/alphonsus4s.jpg",
+			"description": "St. Alphonsus restoration, Society of Gilders community project 2011, New Orleans LA"
+		},
+		{
+			"name": "alphonsus5s",
+			"fileName":  "rest/alphonsus5s.jpg",
+			"description": "St. Alphonsus restoration, Society of Gilders community project 2011, New Orleans LA"
+		},
+		{
+			"name": "alphonsus6s",
+			"fileName":  "rest/alphonsus6s.jpg",
+			"description": "St. Alphonsus restoration, Society of Gilders community project 2011, New Orleans LA"
+		},
+		{
+			"name": "alphonsus7s",
+			"fileName":  "rest/alphonsus7s.jpg",
+			"description": "St. Alphonsus restoration, Society of Gilders community project 2011, New Orleans LA"
+		},
+		{
+			"name": "alphonsus8s",
+			"fileName":  "rest/alphonsus8s.jpg",
+			"description": "St. Alphonsus restoration, Society of Gilders community project 2011, New Orleans LA"
+		},
+		{
+			"name": "alphonsus9s",
+			"fileName":  "rest/alphonsus9s.jpg",
+			"description": "St. Alphonsus restoration, Society of Gilders community project 2011, New Orleans LA"
+		},
+		{
+			"name": "alphonsus10s",
+			"fileName":  "rest/alphonsus10s.jpg",
+			"description": "Altar restoration details, Society of Gilders community project 2011, St. Alphonsus Church New Orleans LA"
+		},
+		{
+			"name": "alphonsus11s",
+			"fileName":  "rest/alphonsus11s.jpg",
+			"description": "Altar restoration details, Society of Gilders community project 2011, St. Alphonsus Church New Orleans LA"
+		},
+		{
+			"name": "circleframe1s",
+			"fileName":  "rest/circleframe1s.jpg",
+			"description": "Frame restoration, Louisiana State Museum, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "circleframe2s",
+			"fileName":  "rest/circleframe2s.jpg",
+			"description": "Frame restoration, Louisiana State Museum, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "floralframe1s",
+			"fileName":  "rest/floralframe1s.jpg",
+			"description": "Frame restoration, Louisiana State Museum, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "floralframe2s",
+			"fileName":  "rest/floralframe2s.jpg",
+			"description": "Frame restoration, Louisiana State Museum, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "floralframe3s",
+			"fileName":  "rest/floralframe3s.jpg",
+			"description": "Frame restoration, Louisiana State Museum, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "marys1s",
+			"fileName":  "rest/marys1s.jpg",
+			"description": "Altar restoration, St. Mary's church, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "marys2s",
+			"fileName":  "rest/marys2s.jpg",
+			"description": "Altar restoration, St. Mary's church, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "marys3s",
+			"fileName":  "rest/marys3s.jpg",
+			"description": "Altar restoration, St. Mary's church, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "marys4s",
+			"fileName":  "rest/marys4s.jpg",
+			"description": "Altar restoration, St. Mary's church, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "marys5s",
+			"fileName":  "rest/marys5s.jpg",
+			"description": "Altar restoration, St. Mary's church, Society of Gilders, New Orleans LA"
+		},
+		{
+			"name": "nola1s",
+			"fileName":  "rest/nola1s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "nola2s",
+			"fileName":  "rest/nola2s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "nola3s",
+			"fileName":  "rest/nola3s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "nola4s",
+			"fileName":  "rest/nola4s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "nola5s",
+			"fileName":  "rest/nola5s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "nola6s",
+			"fileName":  "rest/nola6s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "nola7s",
+			"fileName":  "rest/nola7s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "nola8s",
+			"fileName":  "rest/nola8s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "nola9s",
+			"fileName":  "rest/nola9s.jpg",
+			"description": "Communion rail restoration, St. Alphonsus church Society of Gilders community project 2012, New Orleans LA"
+		},
+		{
+			"name": "candlestick1s",
+			"fileName":  "rest/candlestick1s.jpg",
+			"description": "Silver gilded candlestick restoration, 4' tall, NYC"
+		},
+		{
+			"name": "candlestick2s",
+			"fileName":  "rest/candlestick2s.jpg",
+			"description": "Silver gilded candlestick restoration, 4' tall, NYC"
+		},
+		{
+			"name": "candlestick3s",
+			"fileName":  "rest/candlestick3s.jpg",
+			"description": "Silver gilded candlestick restoration, 4' tall, NYC"
+		}
+	]
+}
