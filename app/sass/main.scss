@@ -1,0 +1,102 @@
+// bower:scss
+@import 'bourbon';
+@import 'neat';
+// endbower
+
+/* reset styles */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin:0; padding:0; border:0; outline:0; font-size:100%; font-weight: normal; vertical-align:baseline; background:transparent;} body { line-height:1; } article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,section { display:block;} nav, ul { list-style:none;}
+/* end reset styles */
+
+
+$medium-up: new-breakpoint(min-width 720px);
+
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */
+
+@font-face {
+  font-family:"Tall Dark And Handsome Condensed";
+  src: url("fonts/talldark.eot?") format("eot"), url("fonts/talldark.woff") format("woff"), url("fonts/talldark.ttf") format("truetype"),url("fonts/talldark.svg#TallDarkAndHandsome-Condensed") format("svg");
+  font-weight:normal;
+  font-style:normal;
+}
+
+/* General styles */
+.hidden {
+  display: none;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  border: 0;
+  color: #000000;
+  outline:none;
+}
+
+a.fb {
+  color: #003471;
+  text-decoration: underline;
+}
+
+.indented {
+  text-indent: -9999px;
+}
+
+.splash .wrapper {
+  margin: 0 auto;
+  max-width: rem(800);
+}
+
+  .splash header {
+    max-width: rem(320);
+    margin: rem(12) auto;
+
+    a {
+      text-indent: -9999px;
+      background: url(/images/header-vertical.png) 0 0 no-repeat;
+      display: block;
+      width: 100%;
+      height: rem(226);
+    }
+  }
+
+  .splash .sites {
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    width: 100%;
+    img {
+      width: 90%;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
+@include media($medium-up) {
+  .splash header {
+    max-width: rem(596);
+    a {
+      background: url(/images/header.png) 0 0 no-repeat;
+      height: rem(182);
+    }
+  }
+  .splash .sites {
+    @include outer-container(100%);
+  }
+
+  .splash .sites .gilding {
+    @include span-columns(6);
+    img {
+      width: auto;
+    }
+  }
+  .splash .sites .design {
+    @include span-columns(6);
+    img {
+      width: auto;
+    }
+  }
+}
+
+
+

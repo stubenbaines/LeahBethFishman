@@ -1,0 +1,274 @@
+// bower:scss
+@import 'bourbon';
+@import 'neat';
+// endbower
+
+@import 'slideshow';
+@import 'slideshow-horizontal';
+
+$medium-up: em(860) !default;
+$slide-menu-width: rem(150);
+$font: "Tall Dark And Handsome Condensed", Futura, "Trebuchet MS", Arial, sans-serif;
+
+/* reset styles */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin:0; padding:0; border:0; outline:0; font-size:100%; font-weight: normal; vertical-align:baseline; background:transparent;} body { line-height:1; } article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,section { display:block;} nav, ul { list-style:none;}
+
+
+/* end reset styles */
+
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */
+
+@font-face {
+	font-family:"Tall Dark And Handsome Condensed";
+	src: url("fonts/talldark.eot?") format("eot"), url("fonts/talldark.woff") format("woff"), url("fonts/talldark.ttf") format("truetype"),url("fonts/talldark.svg#TallDarkAndHandsome-Condensed") format("svg");
+	font-weight:normal;
+	font-style:normal;
+}
+
+body {
+  @include transition(all .5s cubic-bezier(.03, .10, .05, .98));
+  position: relative;
+  @include transform(translateX(0));
+  &.slide {
+    overflow: hidden;
+    @include transform(translateX($slide-menu-width));
+  }
+}
+
+.carousel-center {
+	font-family: $font;
+}
+
+/* General styles */
+.panel {
+	display: none;
+}
+
+.indented {
+  text-indent: -9999px;
+}
+
+.panel.show {
+	display: block;
+}
+
+#wrapper {
+  font-family: $font;
+	background-color: #ffffff;
+	margin: 0 auto;
+	padding: 0.9% 20%;
+}
+
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	border: 0;
+  color: #000;
+	outline:none;
+}
+
+a:hover, a:active {
+  color: #cd842a;
+}
+
+header h1 {
+  width: 100%;
+	min-height: 52px;
+	background: url("images/image-sprite.png") -7px 0 no-repeat;
+	margin-top: 1.05%;
+	margin-bottom: 2%;
+}
+
+nav {
+  position: fixed;
+  left: -$slide-menu-width;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 0;
+  width: $slide-menu-width;
+  overflow-y: auto;
+}
+
+
+
+
+#contact {
+	width: rem(754);
+}
+
+#contact img {
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+/*Thumbnail carousel */
+
+#carousel-nav {
+	width: rem(121);
+	margin: 0 auto;
+	padding-top: 2%;
+	clear: both;
+}
+
+.prev, .prev:link, .prev:hover{
+	display: inline-block;
+	height: rem(30);
+	width: rem(33);
+	margin-right: rem(10);
+	background: url("images/image-sprite.png") 0 -58px no-repeat;
+	float: left;
+}
+
+.carousel-center {
+	float: left;
+	height: rem(35);
+	width: rem(35);
+	background: url("images/image-sprite.png") 0 -145px no-repeat;
+	line-height: 2.2em;
+}
+
+.next, .next:link, .next:hover{
+	display: inline-block;
+	height: rem(30);
+	width: rem(33);
+	margin-left: rem(10);
+	background: url("images/image-sprite.png") 0 -101px no-repeat;
+	float: left;
+}
+
+/* Gallery styles */
+
+#leah-slideshow {
+	min-height: 26em;
+	line-height: 26em;
+	text-align:center;
+}
+
+#hero {
+	margin: 0 auto;
+	width:90%;
+	height:26em;
+}
+
+#hero img {
+	width: auto;
+	max-width:100%;
+	max-height:26em;
+	vertical-align: middle;
+}
+
+#hero.horiz img {
+	width:100%;
+}
+
+/* Panels */
+#store {
+	width: rem(583);
+	margin: rem(20) auto 0 auto;
+}
+
+/* Footer styles */
+
+footer {
+  color: #000;
+	min-height: 13px;
+	clear: both;
+	padding-top: 5%;
+	padding-bottom: 1.5%;
+  text-align: center;
+  a {
+    display: block;
+  }
+}
+
+.facebook, .facebook:link, .facebook:hover{
+	min-width: rem(148);
+	background: url("images/image-sprite.png") 0 -190px no-repeat;
+	margin-right: rem(6);
+}
+
+.gilded-link, .gilded-link:link, .gilded-link:hover {
+	min-width: rem(142);
+  font-size: rem(20);
+}
+
+.navigation-menu-button {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+
+@include media ($medium-up) {
+  nav {
+    margin-bottom: 1.3%;
+    min-width: 684px;
+    position: relative;
+    left: 0;
+  }
+
+  .nav-text {
+    display: inline-block;
+  }
+
+  nav li {
+    display: inline;
+    margin-right: 4.4%;
+    font-size: rem(19);
+    letter-spacing: .10em;
+    a.current {
+      color: #cd842a;
+    }
+  }
+
+  nav ul li:last-child {
+      margin-right: 0;
+  }
+
+  header h1 {
+    min-width: rem(370);
+  }
+
+  #illustration-link, #illustration-link:link {
+    width: 115px;
+  }
+
+  #graphic-link, #graphic-link:link {
+    width: 137px;
+  }
+
+  #sketchbook-link, #sketchbook-link:link {
+    width: 103px;
+  }
+
+  #about-link, #about-link:link {
+    width: 49px;
+  }
+
+  #store-link, #store-link:link {
+    width: 49px;
+  }
+
+  #blog-link, #blog-link:link {
+    width: 38px;
+  }
+
+  #contact-link, #contact-link:link {
+    width: 70px;
+  }
+
+  .navigation-menu-button {
+    display: none;
+  }
+
+  .facebook {
+    float: left;
+  }
+
+  .gilded-link {
+    float: right;
+  }
+}
+

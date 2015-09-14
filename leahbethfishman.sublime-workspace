@@ -1,0 +1,1066 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dec",
+				"decodeURIComponent"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"tax",
+				"taxonomyObjects"
+			],
+			[
+				"taxon",
+				"taxonomyObjects"
+			],
+			[
+				"ta",
+				"taxonomies"
+			],
+			[
+				"taxono",
+				"taxonomies"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"ass",
+				"associateTaxonomy"
+			],
+			[
+				"taxo",
+				"taxonomy"
+			],
+			[
+				"build",
+				"buildTaxonomies"
+			],
+			[
+				"memb",
+				"memberRecipeModel"
+			],
+			[
+				"prep",
+				"preparationGroups"
+			],
+			[
+				"pu",
+				"publishHref"
+			],
+			[
+				"cre",
+				"createData"
+			],
+			[
+				"pr",
+				"prepForUpdate"
+			],
+			[
+				"rec",
+				"recipeId"
+			],
+			[
+				"mod",
+				"modifiedAt"
+			],
+			[
+				"mem",
+				"member_recipe_api"
+			],
+			[
+				"get",
+				"getMemberRecipeByUri"
+			],
+			[
+				"hideMo",
+				"hideMobileAlert"
+			],
+			[
+				"displayI",
+				"displayInterstital"
+			],
+			[
+				"conver",
+				"convertToPlainText"
+			],
+			[
+				"remve",
+				"remove_markdown"
+			],
+			[
+				"article",
+				"articleContent"
+			],
+			[
+				"don",
+				"doneCallback"
+			],
+			[
+				"Ra",
+				"RatingSchema"
+			],
+			[
+				"resta",
+				"restaurantModel"
+			],
+			[
+				"dis",
+				"dishApi"
+			],
+			[
+				"out",
+				"outbrainId"
+			],
+			[
+				"bann",
+				"bannerIsSticky"
+			],
+			[
+				"star",
+				"startingPoint"
+			],
+			[
+				"sti",
+				"stickyBannerEnabled"
+			],
+			[
+				"fi",
+				"firstSet"
+			],
+			[
+				"pac",
+				"packageItems"
+			],
+			[
+				"chann",
+				"channelItems"
+			],
+			[
+				"av",
+				"availableHeight"
+			],
+			[
+				"is",
+				"isSponsored"
+			],
+			[
+				"inl",
+				"inlineConfig"
+			],
+			[
+				"publis",
+				"publishDate"
+			],
+			[
+				"ne",
+				"nextGallery"
+			],
+			[
+				"gallery",
+				"galleryContent"
+			],
+			[
+				"galler",
+				"galleryContent"
+			],
+			[
+				"acti",
+				"activateOutbrain"
+			],
+			[
+				"outbra",
+				"outbrainView"
+			],
+			[
+				"bran",
+				"brandUrl"
+			],
+			[
+				"in",
+				"innerWidth"
+			],
+			[
+				"dev",
+				"deviceView"
+			],
+			[
+				"CN",
+				"CNjQuery"
+			],
+			[
+				"check",
+				"checkResetPassword"
+			],
+			[
+				"curr",
+				"currentAction"
+			],
+			[
+				"cu",
+				"currentView"
+			],
+			[
+				"ad",
+				"AddToBoxController"
+			],
+			[
+				"sl",
+				"slideNum"
+			],
+			[
+				"pl",
+				"placeSocialButtons"
+			],
+			[
+				"so",
+				"socialImgs"
+			],
+			[
+				"cap",
+				"captionHeight"
+			],
+			[
+				"bor",
+				"broadcastResize"
+			],
+			[
+				"previ",
+				"previousSlide"
+			],
+			[
+				"current",
+				"currentItem"
+			],
+			[
+				"soc",
+				"socialDescription"
+			],
+			[
+				"social",
+				"socialDesc"
+			],
+			[
+				"enc",
+				"encodeURIComponent"
+			],
+			[
+				"ret",
+				"returnTo"
+			],
+			[
+				"field",
+				"field-error"
+			],
+			[
+				"Su",
+				"SUBMITTED"
+			],
+			[
+				"login",
+				"loginController"
+			],
+			[
+				"more",
+				"moreAdsCalled"
+			],
+			[
+				"p",
+				"photographer"
+			],
+			[
+				"started",
+				"startedScrolling"
+			],
+			[
+				"exp",
+				"expandedNavBannerHeight"
+			],
+			[
+				"curre",
+				"currentOrientation"
+			],
+			[
+				"cur",
+				"currentOrientation"
+			],
+			[
+				"trun",
+				"truncateText"
+			],
+			[
+				"or",
+				"orientation"
+			],
+			[
+				"orientation",
+				"orientationchange"
+			],
+			[
+				"content",
+				"contentLineHeight"
+			],
+			[
+				"con",
+				"contentHeight"
+			],
+			[
+				"sc",
+				"scroll-pane"
+			],
+			[
+				"en",
+				"encodeURIComponent"
+			],
+			[
+				"nav",
+				"navHeight"
+			],
+			[
+				"moreF",
+				"moreFromContent"
+			],
+			[
+				"secon",
+				"secondaryPageConfig"
+			],
+			[
+				"kw",
+				"kwString"
+			],
+			[
+				"t",
+				"taxonomy"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"pare",
+				"parentHeight"
+			],
+			[
+				"lower",
+				"lowerBound"
+			],
+			[
+				"parent",
+				"parentContainer"
+			],
+			[
+				"upper",
+				"upperBound"
+			],
+			[
+				"open",
+				"openGuide"
+			],
+			[
+				"inten",
+				"intentionContext"
+			],
+			[
+				"inte",
+				"intentionContext"
+			],
+			[
+				"conte",
+				"contentRiver"
+			],
+			[
+				"ess",
+				"essentialGuides"
+			],
+			[
+				"s",
+				"skyscraper"
+			],
+			[
+				"latestRec",
+				"LatestRecipesController"
+			],
+			[
+				"latest",
+				"latestRecipesRegion"
+			],
+			[
+				"act",
+				"activateItem"
+			],
+			[
+				"Es",
+				"essentialGuidesController"
+			],
+			[
+				"handleL",
+				"handleLogoutClick"
+			],
+			[
+				"stick",
+				"stickyHeaderView"
+			],
+			[
+				"show",
+				"showCompact"
+			],
+			[
+				"sta",
+				"startingPoint"
+			],
+			[
+				"sticky",
+				"stickyNavView"
+			],
+			[
+				"SearchMom",
+				"SearchMomentInspiration"
+			],
+			[
+				"searchMom",
+				"searchMomentView"
+			],
+			[
+				"curated",
+				"curatedlist"
+			],
+			[
+				"chan",
+				"channelName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2037,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 12801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/design/index.html",
+			"settings":
+			{
+				"buffer_size": 3322,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Pack",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dpierce/Developer/workspace/git/LeahBethFishman/app/design/js"
+	],
+	"file_history":
+	[
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/utils/socialImages.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/utils/init.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/scripts.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/package.json",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/modules/_article.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/modules/_featuredrecipes.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/article.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/content.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/metadataTags.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/metatags.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/helpers/helpers.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/configure.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/featured-recipes.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/epi-web-services.sublime-project",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/experiments/menus.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/experiments.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/static/bower_components/intentionjs/context.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/latestrecipes.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/recipeoftheday.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/brandmoment.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/footer.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/navigation/mainNav.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/header.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/essential-guides.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/partners.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/link-list.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/homepage.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/featured-recipes-main.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/searchmoment-inspiration.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/searchmoment-terms.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/homepage/searchmoment.hbs",
+		"/Users/dpierce/Developer/workspace/git/nombud-api2/nombud-api/common/models/user.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api2/nombud-api/common/models/user.json",
+		"/Users/dpierce/Developer/workspace/git/nombud-api2/nombud-api/common/models/dish.json",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/epi-presentation.sublime-project",
+		"/Users/dpierce/Developer/workspace/git/nombud-api2/nombud-api/common/models/restaurant.json",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/menu.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/modules/_searchmoment.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/gallery/relatedContent.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/gallery.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/gallery/slideshow.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/layouts/main.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/gallery.scss",
+		"/Users/dpierce/Documents/epi/satellite.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/views/gallery/list.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/controllers/gallery.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/tag.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/channel.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/middleware/ads.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/test/ads-test.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/stats.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/services/member-recipe-api.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/services/content-api.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/utils/sdk.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/package.json",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/test/member-recipe-test.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/model/copilot/url.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/configure.js",
+		"/Users/dpierce/Developer/workspace/hg/dpierce_epi2_1146iframeRiser/sites/epi2/epi-webapp/src/main/webapp/javascript/pages/cn.recipedetail.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/model/copilot/recipe.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/utils/epi-request.js",
+		"/Users/dpierce/Developer/workspace/hg/dpierce_epi2_860-mobileRecipe/sites/epi2/epi-webapp/src/main/webapp/javascript/pages/cn.modules.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/routes.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/services/copilot-api.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/services/recipe-api.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/index.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/lib/model/copilot/member-recipe.js",
+		"/Users/dpierce/Developer/workspace/git/epi-web-services/README.md",
+		"/Users/dpierce/Downloads/apiKey-5P8NFM0XJSR91K9ZWGCF1H8KO.properties",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/modules/_package.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/recipe.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/modules/_mobilenav.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/user/lightreg.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/ziplist/service.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/cnidModal.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/cnid.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/partials/_layout.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/test/helpers-test.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/test/content-test.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/test/metatags-test.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/views/gallery/slideshow.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/types/gallery.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/utils/polarTemplates.js",
+		"/Users/dpierce/Developer/workspace/hg/dpierce_epi2_1053StripHtml/sites/epi2/epi-webapp/src/main/webapp/WEB-INF/interface/templates/global_elements/common_title_meta_tags.jsp",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/controllers/navBar.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/controllers/poptipPoll.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/controllers/curtainHeader.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/types/homepage.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/views/stickyHeader.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/controllers/railPromos.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/watch-js.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/dtm.hbs",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/services/dish.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/models/Dish.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/models/Rating.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/routes.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/db.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/services/restaurant.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/models/Restaurant.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/tests/restaurant.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/tests/restaurant.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/nombud-api.sublime-project",
+		"/Users/dpierce/Developer/workspace/hg/dpierce_epi2_1069events/sites/epi2/epi-webapp/src/main/webapp/javascript/pages/cn.recipedetail.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/package.json",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/test.js",
+		"/Users/dpierce/Developer/workspace/git/nombud-api/lib/index.js",
+		"/Users/dpierce/Developer/workspace/hg/dpierce_epi2_1069/sites/epi2/epi-webapp/src/main/webapp/javascript/pages/cn.modules.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/homepage.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/utils/outbrain.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/views/gallery/outbrain.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/modules/_newsletter.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/modules/_more_from_epi.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/legacy/_mobile.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/controllers/devices.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/utils/mqGenie.js",
+		"/Users/dpierce/Documents/epi/dart.bun.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/Gruntfile.js",
+		"/Users/dpierce/Documents/epi/cookit.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/views/gallery/pane.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/models/gallery.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/gallery/item.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/gallery/pane.hbs",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/controllers/addToBox.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/views/navBar.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/views/mobileNavBar.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/controllers/topRecipesResponder.js",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass/tag.scss",
+		"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials/global/navigation/searchBox.hbs"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/dpierce/Developer/workspace/git/epi-presentation/views",
+			"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass",
+			"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript",
+			"/Users/dpierce/Developer/workspace/git/epi-presentation/gumby/sass",
+			"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript",
+			"/Users/dpierce/Developer/workspace/git/epi-presentation/views",
+			"/Users/dpierce/Developer/workspace/git/epi-presentation/lib/javascript/views",
+			"/Users/dpierce/Developer/workspace/git/epi-presentation/views/partials"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"concat",
+			"watch",
+			"build",
+			"socialImgs",
+			"SocialImages",
+			"fig jam",
+			"large-hero",
+			"body.article .large-hero-article .headline",
+			".large-hero-articl",
+			"video",
+			"article-body",
+			"console.log",
+			"article-video-player",
+			"isSponsored",
+			"video",
+			"hero-image-container",
+			"684",
+			"video",
+			"WEB_SERV",
+			"COPILOT",
+			"homepage",
+			"copilot",
+			"type",
+			"checkType",
+			"mongo",
+			"Could not locate any valid servers in initial seed list",
+			"featured",
+			"dateC",
+			"NewsArticle",
+			"encodeURIComponent",
+			"socialTitle",
+			"articleSec",
+			"section",
+			"author",
+			"template",
+			"article",
+			"console.log",
+			"vertical",
+			"standard-append",
+			"/>\n",
+			"in-tablet-append",
+			"intent",
+			"undefined",
+			"social",
+			"sponsor",
+			"@root.location",
+			"root.location",
+			"location",
+			"@location",
+			"data.location",
+			"location",
+			"searchMomentPhotos",
+			"search",
+			"skyscraper",
+			"gotham",
+			"2Ch_70",
+			"w_108",
+			"prepareSharingData",
+			"sharing",
+			"shar",
+			"searchmomentPhotos",
+			"console.log",
+			"9x4",
+			"}\n",
+			"nextGallery",
+			"picture",
+			"mySdk",
+			"epi_services_sdk",
+			"publishHist",
+			"epi_services",
+			"vertical",
+			"recheckEvery",
+			"backgroundTasks",
+			"this.elements",
+			"track",
+			"track(",
+			"track",
+			"checkInView",
+			"elementIsInView",
+			"satell",
+			"omniture",
+			"displayList",
+			"scrollTop",
+			"var u",
+			"elementIsInView",
+			"inview",
+			"list",
+			"test",
+			"cleanKeywords",
+			"opts",
+			"addKeyword",
+			"CONTENT_TYPES",
+			"contentTy",
+			"googletag",
+			"getTaxonomies",
+			"associateTaxonomies",
+			"async",
+			"No valid replicaset instance",
+			"Could not locate any valid servers in initial seed list",
+			"mongo",
+			"Could not locate any valid",
+			"associateTaxonomy",
+			"config",
+			"init",
+			"isInitialized",
+			"should",
+			"console.",
+			"console.log",
+			"followTaxonomy",
+			"_copilotGet",
+			"amgUserId",
+			"{\n",
+			"'",
+			"assert",
+			"sdk",
+			"authUser",
+			"nock",
+			"mySdk",
+			"modifiedAt",
+			"epi_services_sdk",
+			"populateTaxonomyItemInCache",
+			"getTaxonomyByURIKey",
+			"relatedView",
+			"relatedRecipes",
+			"related",
+			"setImmediate",
+			"hasError",
+			"jwt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"standard-prepend",
+			"data-in-tablet-append",
+			"data-intent",
+			"location",
+			"@root.location",
+			"2Ch_248",
+			"w_375",
+			"\"",
+			"this",
+			"\"",
+			"restaurant",
+			"300x603",
+			"$",
+			"206x24",
+			"rem(",
+			"data.package",
+			"data.channel",
+			"data.article",
+			"bureaugrotcond-book-webfont",
+			"\\{{"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1327,
+								1327
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9602,
+								9608
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6693.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/design/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3306,
+								3306
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1265.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 34.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "leahbethfishman.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
