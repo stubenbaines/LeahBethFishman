@@ -206,10 +206,9 @@ module.exports = function (grunt) {
             dist: {
                 files: {
                     src: [
-                        '<%= config.dist %>/scripts/**/*.js',
                         '<%= config.dist %>/styles/**/*.css',
                         '<%= config.dist %>/images/**/*.*',
-                        '<%= config.dist %>/styles/fonts/**/*.*',
+                        //'<%= config.dist %>/styles/fonts/**/*.*',
                         '<%= config.dist %>/*.{ico,png}'
                     ]
                 }
@@ -229,11 +228,10 @@ module.exports = function (grunt) {
         // Performs rewrites based on rev and the useminPrepare configuration
         usemin: {
             options: {
-                assetsDirs: ['<%= config.dist %>', '<%= config.dist %>/images']
+              assetsDirs: ['<%= config.dist %>', '<%= config.dist %>/images'],
             },
             html: ['<%= config.dist %>/**/*.html'],
-            css: ['<%= config.dist %>/styles/**/*.css'],
-            js: ['<%= config.dist %>/scripts/**/*.js']
+            css: ['<%= config.dist %>/styles/**/*.css']
         },
 
         // The following *-min tasks produce minified files in the dist folder
@@ -297,11 +295,12 @@ module.exports = function (grunt) {
           dist: {
             files: {
               '<%= config.dist %>/scripts/design.min.js': [
+              '<%= config.app %>/scripts/jquery.js',
               '<%= config.app %>/scripts/design.js',
               '<%= config.app %>/scripts/slideshow.js'
             ]
+            }
           }
-        }
         },
         // concat: {
         //     dist: {}
@@ -320,7 +319,10 @@ module.exports = function (grunt) {
                         '.htaccess',
                         'images/{,*/}*.webp',
                         '{,*/}*.html',
-                        'styles/fonts/{,*/}*.*'
+                        'styles/fonts/{,*/}*.*',
+                        'styles/images/{,*/}*.*',
+                        'design/data/{,*/}*.*',
+                        'design/img/**/*.*'
                     ]
                 }]
             },
