@@ -73,11 +73,11 @@ a:hover, a:active {
 }
 
 header h1 {
-  width: 100%;
-	min-height: 52px;
-	background: url("images/image-sprite.png") -7px 0 no-repeat;
-	margin-top: 1.05%;
-	margin-bottom: 2%;
+  width: rem(185);
+	min-height: rem(104);
+	background: url("images/image-sprite.png") 0 -463px no-repeat;
+	margin: 1.05% auto 2%;
+
 }
 
 nav {
@@ -89,6 +89,13 @@ nav {
   z-index: 0;
   width: $slide-menu-width;
   overflow-y: auto;
+  padding-left: rem(24);
+  padding-top: rem(6);
+
+  li {
+    font-size: 30px;
+    margin-bottom: rem(18);
+  }
 }
 
 
@@ -183,10 +190,38 @@ footer {
   }
 }
 
-.facebook, .facebook:link, .facebook:hover{
+.social {
 	min-width: rem(148);
-	background: url("images/image-sprite.png") 0 -190px no-repeat;
 	margin-right: rem(6);
+  margin-bottom: rem(16);
+
+  ul {
+    list-style: none;
+    li {
+      display: inline-block;
+      a {
+        text-indent: -9999px;
+        background: url("images/social.png") 0 0 no-repeat;
+        height: rem(34);
+        width: rem(34);
+      }
+      &.etsy a {
+        background-position: 0 -34px;
+      }
+
+      &.fb a {
+        background-position: 0 -105px;
+      }
+
+      &.linkedin a {
+        background-position: 0 -70px;
+      }
+
+      &.tumblr a {
+        background-position: 0 -140px;
+      }
+    }
+  }
 }
 
 .gilded-link, .gilded-link:link, .gilded-link:hover {
@@ -196,8 +231,13 @@ footer {
 
 .navigation-menu-button {
   position: absolute;
-  left: 0;
+  left: 4px;
+  height: 26px;
+  font-size: 24px;
   top: 0;
+  line-height: 32px;
+  padding-left: 32px;
+  background: url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNCAxMGgyNGMxLjEwNCAwIDItLjg5NiAyLTJzLS44OTYtMi0yLTJINGMtMS4xMDQgMC0yIC44OTYtMiAycy44OTYgMiAyIDJ6bTI0IDRINGMtMS4xMDQgMC0yIC44OTYtMiAycy44OTYgMiAyIDJoMjRjMS4xMDQgMCAyLS44OTYgMi0ycy0uODk2LTItMi0yem0wIDhINGMtMS4xMDQgMC0yIC44OTYtMiAycy44OTYgMiAyIDJoMjRjMS4xMDQgMCAyLS44OTYgMi0ycy0uODk2LTItMi0yeiIvPjwvc3ZnPg==') no-repeat;
 }
 
 
@@ -207,6 +247,7 @@ footer {
     min-width: 684px;
     position: relative;
     left: 0;
+    padding: 0;
   }
 
   .nav-text {
@@ -228,7 +269,13 @@ footer {
   }
 
   header h1 {
+    width: 100%;
     min-width: rem(370);
+    background: url("images/image-sprite.png") 0 0 no-repeat;
+    margin-top: 1.05%;
+    margin-bottom: 2%;
+    min-height: 0;
+    height: rem(48);
   }
 
   #illustration-link, #illustration-link:link {
@@ -263,7 +310,10 @@ footer {
     display: none;
   }
 
-  .facebook {
+  footer {
+    @include clearfix;
+  }
+  .social {
     float: left;
   }
 
