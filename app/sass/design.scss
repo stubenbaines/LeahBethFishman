@@ -100,14 +100,9 @@ nav {
 
 
 
-
-#contact {
-	width: rem(754);
-}
-
 #contact img {
-	display: block;
-	margin: 0 auto 0 auto;
+  max-width: rem(320);
+  margin: 0;
 }
 
 /*Thumbnail carousel */
@@ -172,8 +167,19 @@ nav {
 
 /* Panels */
 #store {
-	width: rem(583);
-	margin: rem(20) auto 0 auto;
+  img {
+    display: none;
+  }
+
+  .mobile-txt {
+    border: 3px solid #cd842a;
+    padding: rem(20);
+    font-size: rem(30);
+    margin-top: rem(16);
+    a {
+      color: #cd842a;
+    }
+  }
 }
 
 /* Footer styles */
@@ -305,6 +311,27 @@ footer {
 
   #contact-link, #contact-link:link {
     width: 70px;
+  }
+
+  #store {
+    width: rem(583);
+    margin: rem(20) auto 0 auto;
+    img {
+      display: block;
+    }
+  }
+
+  #contact {
+    width: rem(754);
+  }
+
+  #contact img {
+    display: block;
+    margin: 0 auto 0 auto;
+  }
+
+  .mobile-txt {
+    display: none;
   }
 
   .navigation-menu-button {
