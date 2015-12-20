@@ -102,13 +102,19 @@ a.fb {
     margin-bottom: 0;
     img {
       width: auto;
+      position: relative;
     }
   }
   .splash .sites .design {
     @include span-columns(6);
     img {
       width: auto;
+      left: rem(9);
     }
+  }
+
+  .splash .sites .gilding img {
+    left: rem(-9);
   }
 }
 
