@@ -10,7 +10,7 @@ footer,header,hgroup,menu,section { display:block;} nav, ul { list-style:none;}
 /* end reset styles */
 
 
-$medium-up: new-breakpoint(min-width 720px);
+$medium-up: new-breakpoint(min-width 904px);
 
 /* @font-face kit by Fonts2u (http://www.fonts2u.com) */
 
@@ -43,19 +43,22 @@ a.fb {
 }
 
 .splash .wrapper {
-  margin: 0 auto rem(72);
+  margin: rem(46) auto rem(72);
 }
 
   .splash header {
     margin: rem(12) auto;
+    width: rem(254);
+    height: rem(254);
+    position: relative;
 
     a {
       text-indent: -9999px;
       background: url(/images/header-vertical.png) 0 0 no-repeat;
       display: block;
-      width: rem(198);
-      height: rem(227);
       margin: 0 auto;
+      width: rem(254);
+      height: rem(254);
     }
   }
 
@@ -69,21 +72,31 @@ a.fb {
     }
 
     .gilding {
-      margin-bottom: rem(48);
+      margin-bottom: rem(78);
     }
   }
 
 @include media($medium-up) {
+  .splash .wrapper {
+    background: url(/images/background.jpg) 0 0 no-repeat;
+    max-width: rem(904);
+    margin-top: rem(98);
+    min-height: rem(700);
+  }
+
   .splash .sites {
     @include outer-container(100%);
   }
 
-  .splash header a {
-    position: relative;
-    top: rem(102);
-    z-index: 99;
+  .splash header {
+    height: rem(84);
+    a {
+      position: absolute;
+      top: rem(-12);
+      left: rem(6);
+      z-index: 99;
+    }
   }
-
   .splash .sites .gilding {
     @include span-columns(6);
     margin-bottom: 0;
